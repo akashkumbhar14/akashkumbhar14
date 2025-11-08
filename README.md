@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashkumbhar14&label=Visitors&color=brightgreen&style=for-the-badge" alt="Profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akashkumbhar14.akashkumbhar14&left_color=blue&right_color=green" alt="Unique Visitors" />
 </p>
 
 ---
