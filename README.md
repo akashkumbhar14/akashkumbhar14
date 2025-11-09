@@ -44,7 +44,6 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40"/> </a>
 </p>
 
 ---
@@ -65,11 +64,11 @@
 
 ---
 
-<h3 align="center">⚡ Fun Fact</h3>
-<p align="center">I love solving problems, learning new technologies, and building smart applications 🚀</p>
+<!-- <h3 align="center">⚡ Fun Fact</h3> -->
+<!-- <p align="center">I love solving problems, learning new technologies, and building smart applications 🚀</p> -->
 
 ---
 
-<h3 align="center">💬 “Code. Create. Conquer.”</h3>
+<!-- <h3 align="center">💬 “Code. Create. Conquer.”</h3> -->
 
 ---
