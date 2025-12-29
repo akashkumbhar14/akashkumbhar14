@@ -2,27 +2,37 @@
 <h3 align="center">Software Developer | AI & Web Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akash-kumbhar-8469952ba" target="_blank">LinkedIn</a> •
-  <a href="https://leetcode.com/akash_kumbhar14/" target="_blank">LeetCode</a>
+  <a href="https://linkedin.com/in/akash-kumbhar-8469952ba" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="35" height="35"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/akash_kumbhar14/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg"
+         alt="LeetCode" width="35" height="35"/>
+  </a>
 </p>
 
 ---
 
 <h3>👨‍💻 About Me</h3>
 
-- Passionate about **Software Development**, **Problem Solving**, and **AI-based systems**
-- Interested in building **scalable web & mobile applications**
-- Strong foundation in **DSA, Backend, and Full-Stack development**
+- Passionate about <b>Software Development</b>, <b>Problem Solving</b>, and <b>AI-based systems</b>
+- Interested in building <b>scalable web & mobile applications</b>
+- Strong foundation in <b>DSA, Backend, and Full-Stack development</b>
 
 ---
 
 <h3>🛠️ Tech Stack</h3>
 
-- **Languages:** C++, Java, C#
-- **Backend:** Node.js, Spring Boot, .NET
-- **Frontend:** React, React Native
-- **Database:** MySQL, MongoDB
-- **Tools:** Git, Docker, Figma
+<ul>
+  <li><b>Languages:</b> C++, Java, C#</li>
+  <li><b>Backend:</b> Node.js, .NET</li>
+  <li><b>Frontend:</b> React, React Native</li>
+  <li><b>Database:</b> MySQL, MongoDB</li>
+  <li><b>Data & Automation:</b> Power BI, Power Apps, Power Automate</li>
+  <li><b>Tools:</b> Git, Docker, Figma</li>
+</ul>
 
 ---
 
