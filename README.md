@@ -6,12 +6,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn" width="35" height="35"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/akash_kumbhar14/" target="_blank">
+  
+  <a href="https://leetcode.com/akash_kumbhar14/" target="_blank"
+     style="background-color:white; padding:6px; border-radius:6px; display:inline-block;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
          alt="LeetCode" width="35" height="35"/>
   </a>
 </p>
+
 
 ---
 
