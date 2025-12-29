@@ -26,18 +26,6 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashkumbhar14&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumbhar14&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 <p align="center">
   <i>“Learn consistently. Build meaningfully.”</i>
 </p>
