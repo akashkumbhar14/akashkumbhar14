@@ -8,7 +8,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/akash_kumbhar14/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg"
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
          alt="LeetCode" width="35" height="35"/>
   </a>
 </p>
